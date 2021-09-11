@@ -16,3 +16,8 @@ a simple web scrapper application made with python which scrapes the inspiration
 --------------
 
 **Request:** If you liked then Plz _Star The Repo._
+
+## Output
+
+
+![scrapperoutput](https://user-images.githubusercontent.com/48137657/132945533-2e4abb27-b201-44cf-ac5e-e46a0ff1a379.PNG)
